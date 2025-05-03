@@ -14,6 +14,6 @@ Next the IP addresses are extracted using [`jq`](https://jqlang.org/):
 
 And the locations are looked up in the [IPFire
 location](https://www.ipfire.org/location) database using
-[`lookup-location`](https://codeberg.org/ceving/location-lookup).
+[`location-lookup`](https://codeberg.org/ceving/location-lookup).
 
 	location-lookup ip
