@@ -1,0 +1,5 @@
+#! /bin/bash
+set -eu
+jq -r '[(.ts|tonumber),.ip,.iso3166,.asn]|@csv' |
+	psql -c '\copy hostile (ts, ip, cc, asn) from stdin with (format csv)'
+

@@ -1,0 +1,5 @@
+#! /bin/bash
+set -eu
+location list-countries --show-name |
+	jq -rR 'capture("^(?<a2>..) (?<name>.+)") | [.a2,.name]|@csv' |
+	psql -c '\copy country (a2, name) from stdin with (format csv)'
