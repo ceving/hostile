@@ -1,0 +1,9 @@
+#! /bin/bash
+set -eu
+cat <<EOF
+# Top 20 Hostile Countries
+
+| Rank | Country | Total | Percent |
+| ---: | :------ | ----: | ------: |
+EOF
+jq -r '"| \(.rank) | \(.country) | \(.attacks) | \(.percent) |"'
