@@ -1,20 +1,20 @@
-{"rank":1,"country":"China (CN)","attacks":58361,"percent":40.90}
-{"rank":2,"country":"United States of America (US)","attacks":14837,"percent":10.40}
-{"rank":3,"country":"Brazil (BR)","attacks":14708,"percent":10.31}
-{"rank":4,"country":"Singapore (SG)","attacks":9401,"percent":6.59}
-{"rank":5,"country":"Germany (DE)","attacks":8490,"percent":5.95}
-{"rank":6,"country":"Viet Nam (VN)","attacks":6034,"percent":4.23}
-{"rank":7,"country":"Hong Kong (HK)","attacks":5289,"percent":3.71}
-{"rank":8,"country":"Korea, Republic of (KR)","attacks":3516,"percent":2.46}
-{"rank":9,"country":"Seychelles (SC)","attacks":2742,"percent":1.92}
-{"rank":10,"country":"Bulgaria (BG)","attacks":2540,"percent":1.78}
-{"rank":11,"country":"Indonesia (ID)","attacks":2258,"percent":1.58}
-{"rank":12,"country":"India (IN)","attacks":1613,"percent":1.13}
-{"rank":13,"country":"Moldova, Republic of (MD)","attacks":1084,"percent":0.76}
-{"rank":14,"country":"Russian Federation (RU)","attacks":1040,"percent":0.73}
-{"rank":15,"country":"France (FR)","attacks":989,"percent":0.69}
-{"rank":16,"country":"Netherlands (NL)","attacks":965,"percent":0.68}
-{"rank":17,"country":"United Kingdom of Great Britain and Northern Ireland (GB)","attacks":931,"percent":0.65}
-{"rank":18,"country":"Iran, Islamic Republic of (IR)","attacks":650,"percent":0.46}
-{"rank":19,"country":"Argentina (AR)","attacks":545,"percent":0.38}
-{"rank":20,"country":"Romania (RO)","attacks":542,"percent":0.38}
+{"rank":1,"country":"China (CN)","attacks":58577,"percent":36.12}
+{"rank":2,"country":"Brazil (BR)","attacks":33345,"percent":20.56}
+{"rank":3,"country":"United States of America (US)","attacks":14923,"percent":9.20}
+{"rank":4,"country":"Singapore (SG)","attacks":9446,"percent":5.83}
+{"rank":5,"country":"Germany (DE)","attacks":8495,"percent":5.24}
+{"rank":6,"country":"Viet Nam (VN)","attacks":6075,"percent":3.75}
+{"rank":7,"country":"Hong Kong (HK)","attacks":5303,"percent":3.27}
+{"rank":8,"country":"Korea, Republic of (KR)","attacks":3561,"percent":2.20}
+{"rank":9,"country":"Seychelles (SC)","attacks":2742,"percent":1.69}
+{"rank":10,"country":"Bulgaria (BG)","attacks":2614,"percent":1.61}
+{"rank":11,"country":"Indonesia (ID)","attacks":2267,"percent":1.40}
+{"rank":12,"country":"India (IN)","attacks":1614,"percent":1.00}
+{"rank":13,"country":"Moldova, Republic of (MD)","attacks":1084,"percent":0.67}
+{"rank":14,"country":"Russian Federation (RU)","attacks":1058,"percent":0.65}
+{"rank":15,"country":"France (FR)","attacks":1010,"percent":0.62}
+{"rank":16,"country":"Netherlands (NL)","attacks":993,"percent":0.61}
+{"rank":17,"country":"United Kingdom of Great Britain and Northern Ireland (GB)","attacks":931,"percent":0.57}
+{"rank":18,"country":"Iran, Islamic Republic of (IR)","attacks":650,"percent":0.40}
+{"rank":19,"country":"Romania (RO)","attacks":575,"percent":0.35}
+{"rank":20,"country":"Argentina (AR)","attacks":560,"percent":0.35}
