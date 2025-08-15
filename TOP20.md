@@ -2,23 +2,23 @@
 
 | Rank | Country | Total | Percent |
 | ---: | :------ | ----: | ------: |
-| 1 | China (CN) | 101384 | 25.02 |
-| 2 | United States of America (US) | 68450 | 16.89 |
-| 3 | Brazil (BR) | 37017 | 9.13 |
-| 4 | Singapore (SG) | 35072 | 8.65 |
-| 5 | Germany (DE) | 25728 | 6.35 |
-| 6 | Hong Kong (HK) | 16832 | 4.15 |
-| 7 | Viet Nam (VN) | 11696 | 2.89 |
-| 8 | Indonesia (ID) | 9189 | 2.27 |
-| 9 | Seychelles (SC) | 8085 | 2 |
-| 10 | United Kingdom of Great Britain and Northern Ireland (GB) | 7310 | 1.8 |
-| 11 | India (IN) | 7103 | 1.75 |
-| 12 | Korea, Republic of (KR) | 6576 | 1.62 |
-| 13 | Japan (JP) | 5697 | 1.41 |
-| 14 | Russian Federation (RU) | 5442 | 1.34 |
-| 15 | Romania (RO) | 5409 | 1.33 |
-| 16 | Bulgaria (BG) | 5307 | 1.31 |
-| 17 | Netherlands (NL) | 5229 | 1.29 |
-| 18 | Iran, Islamic Republic of (IR) | 3819 | 0.94 |
-| 19 | Taiwan (TW) | 3654 | 0.9 |
-| 20 | Turkey (TR) | 3193 | 0.79 |
+| 1 | China (CN) | 101600 | 24.88 |
+| 2 | United States of America (US) | 68737 | 16.83 |
+| 3 | Brazil (BR) | 37106 | 9.09 |
+| 4 | Singapore (SG) | 35146 | 8.61 |
+| 5 | Germany (DE) | 25779 | 6.31 |
+| 6 | Hong Kong (HK) | 16905 | 4.14 |
+| 7 | Viet Nam (VN) | 11832 | 2.9 |
+| 8 | Indonesia (ID) | 9399 | 2.3 |
+| 9 | Seychelles (SC) | 8254 | 2.02 |
+| 10 | United Kingdom of Great Britain and Northern Ireland (GB) | 7534 | 1.84 |
+| 11 | India (IN) | 7130 | 1.75 |
+| 12 | Korea, Republic of (KR) | 6690 | 1.64 |
+| 13 | Romania (RO) | 6120 | 1.5 |
+| 14 | Japan (JP) | 5697 | 1.39 |
+| 15 | Russian Federation (RU) | 5578 | 1.37 |
+| 16 | Bulgaria (BG) | 5329 | 1.3 |
+| 17 | Netherlands (NL) | 5265 | 1.29 |
+| 18 | Iran, Islamic Republic of (IR) | 3834 | 0.94 |
+| 19 | Taiwan (TW) | 3700 | 0.91 |
+| 20 | Turkey (TR) | 3199 | 0.78 |
