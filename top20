@@ -1,7 +1,7 @@
 #! /bin/bash
 set -eu
 cat <<EOF
-# Top 20 Hostile Countries
+# Top 20 Hostile Countries in Germany
 
 | Rank | Country | Total | Percent |
 | ---: | :------ | ----: | ------: |
