@@ -6,14 +6,22 @@ Once a day in the morning the data of the previous day gets collected
 using
 [`journalctl`](https://www.freedesktop.org/software/systemd/man/latest/journalctl.html):
 
-	journalctl --identifier sshd --since=yesterday --until=today --priority=notice --output=json
+~~~
+journalctl --identifier sshd --since=yesterday --until=today --priority=info --output=json
+~~~
 
-Next the IP addresses are extracted using [`jq`](https://jqlang.org/):
+Next the IP addresses are extracted using [`jq`](https://jqlang.org/) or `jaq`:
 
-	jq -c '{ts:._SOURCE_REALTIME_TIMESTAMP}+(.MESSAGE|capture("authentication failure.* rhost=(?<ip>[^ ]+) "))'
+~~~
+jaq -r -c '
+._SOURCE_REALTIME_TIMESTAMP as $ts 
+| .MESSAGE 
+| capture("from (?<ip>[0-9.]+) to") // capture("from \\[(?<ip>[^\\]]+)\\].* failed authentication") 
+| {ts: $ts, ip: .ip}'
+~~~
 
-And the locations are looked up in the [IPFire
-location](https://www.ipfire.org/location) database using
-[`location-lookup`](https://codeberg.org/ceving/location-lookup).
+Finally the IP address is looked up using [OpenRDAP](https://github.com/openrdap/rdap).
 
-	location-lookup ip
+~~~
+location-lookup ip
+~~~
