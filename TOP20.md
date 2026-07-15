@@ -2,12 +2,12 @@
 
 | Rank | Country | Total | Percent |
 | ---: | :------ | ----: | ------: |
-| 1 | China (CN) | 121605 | 21.39 |
-| 2 | United States of America (US) | 94826 | 16.68 |
+| 1 | China (CN) | 121798 | 21.41 |
+| 2 | United States of America (US) | 94826 | 16.67 |
 | 3 | Brazil (BR) | 51863 | 9.12 |
-| 4 | Singapore (SG) | 42871 | 7.54 |
-| 5 | Germany (DE) | 36087 | 6.35 |
-| 6 | Romania (RO) | 27710 | 4.87 |
+| 4 | Singapore (SG) | 42928 | 7.55 |
+| 5 | Germany (DE) | 36087 | 6.34 |
+| 6 | Romania (RO) | 27718 | 4.87 |
 | 7 | Hong Kong (HK) | 21024 | 3.70 |
 | 8 | Viet Nam (VN) | 15660 | 2.75 |
 | 9 | Indonesia (ID) | 14059 | 2.47 |
@@ -16,8 +16,8 @@
 | 12 | India (IN) | 10036 | 1.76 |
 | 13 | Korea, Republic of (KR) | 8930 | 1.57 |
 | 14 | Netherlands (NL) | 8905 | 1.57 |
-| 15 | United Kingdom of Great Britain and Northern Ireland (GB) | 8869 | 1.56 |
-| 16 | Russian Federation (RU) | 7867 | 1.38 |
+| 15 | United Kingdom of Great Britain and Northern Ireland (GB) | 8877 | 1.56 |
+| 16 | Russian Federation (RU) | 7868 | 1.38 |
 | 17 | Japan (JP) | 6638 | 1.17 |
 | 18 | Taiwan (TW) | 6619 | 1.16 |
 | 19 | Bulgaria (BG) | 5952 | 1.05 |
