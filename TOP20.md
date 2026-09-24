@@ -2,18 +2,18 @@
 
 | Rank | Country | Total | Percent |
 | ---: | :------ | ----: | ------: |
-| 1 | China (CN) | 134238 | 22.63 |
-| 2 | United States of America (US) | 96557 | 16.28 |
-| 3 | Brazil (BR) | 51887 | 8.75 |
-| 4 | Singapore (SG) | 43369 | 7.31 |
+| 1 | China (CN) | 134345 | 22.64 |
+| 2 | United States of America (US) | 96686 | 16.29 |
+| 3 | Brazil (BR) | 51887 | 8.74 |
+| 4 | Singapore (SG) | 43389 | 7.31 |
 | 5 | Germany (DE) | 36197 | 6.10 |
 | 6 | Romania (RO) | 27718 | 4.67 |
 | 7 | Hong Kong (HK) | 21325 | 3.59 |
-| 8 | Viet Nam (VN) | 16262 | 2.74 |
+| 8 | Viet Nam (VN) | 16290 | 2.74 |
 | 9 | Indonesia (ID) | 14256 | 2.40 |
 | 10 | Seychelles (SC) | 11328 | 1.91 |
 | 11 | Netherlands (NL) | 11278 | 1.90 |
-| 12 | Russian Federation (RU) | 11068 | 1.87 |
+| 12 | Russian Federation (RU) | 11068 | 1.86 |
 | 13 | Lithuania (LT) | 10392 | 1.75 |
 | 14 | India (IN) | 10218 | 1.72 |
 | 15 | Korea, Republic of (KR) | 9266 | 1.56 |
