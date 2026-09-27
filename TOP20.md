@@ -2,14 +2,14 @@
 
 | Rank | Country | Total | Percent |
 | ---: | :------ | ----: | ------: |
-| 1 | China (CN) | 134619 | 22.66 |
-| 2 | United States of America (US) | 96883 | 16.31 |
+| 1 | China (CN) | 134735 | 22.67 |
+| 2 | United States of America (US) | 96963 | 16.32 |
 | 3 | Brazil (BR) | 51887 | 8.73 |
 | 4 | Singapore (SG) | 43389 | 7.30 |
-| 5 | Germany (DE) | 36211 | 6.10 |
-| 6 | Romania (RO) | 27718 | 4.67 |
+| 5 | Germany (DE) | 36211 | 6.09 |
+| 6 | Romania (RO) | 27718 | 4.66 |
 | 7 | Hong Kong (HK) | 21351 | 3.59 |
-| 8 | Viet Nam (VN) | 16300 | 2.74 |
+| 8 | Viet Nam (VN) | 16304 | 2.74 |
 | 9 | Indonesia (ID) | 14256 | 2.40 |
 | 10 | Seychelles (SC) | 11328 | 1.91 |
 | 11 | Netherlands (NL) | 11278 | 1.90 |
@@ -18,7 +18,7 @@
 | 14 | India (IN) | 10218 | 1.72 |
 | 15 | Korea, Republic of (KR) | 9283 | 1.56 |
 | 16 | United Kingdom of Great Britain and Northern Ireland (GB) | 8888 | 1.50 |
-| 17 | Japan (JP) | 6685 | 1.13 |
+| 17 | Japan (JP) | 6685 | 1.12 |
 | 18 | Taiwan (TW) | 6620 | 1.11 |
 | 19 | Bulgaria (BG) | 5952 | 1.00 |
 | 20 | Iran, Islamic Republic of (IR) | 5698 | 0.96 |
