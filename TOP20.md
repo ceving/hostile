@@ -2,23 +2,23 @@
 
 | Rank | Country | Total | Percent |
 | ---: | :------ | ----: | ------: |
-| 1 | China (CN) | 136379 | 22.82 |
-| 2 | United States of America (US) | 97654 | 16.34 |
-| 3 | Brazil (BR) | 51888 | 8.68 |
-| 4 | Singapore (SG) | 43445 | 7.27 |
-| 5 | Germany (DE) | 36212 | 6.06 |
-| 6 | Romania (RO) | 27718 | 4.64 |
+| 1 | China (CN) | 136804 | 22.86 |
+| 2 | United States of America (US) | 97735 | 16.33 |
+| 3 | Brazil (BR) | 51888 | 8.67 |
+| 4 | Singapore (SG) | 43445 | 7.26 |
+| 5 | Germany (DE) | 36212 | 6.05 |
+| 6 | Romania (RO) | 27718 | 4.63 |
 | 7 | Hong Kong (HK) | 21396 | 3.58 |
 | 8 | Viet Nam (VN) | 16427 | 2.75 |
 | 9 | Indonesia (ID) | 14256 | 2.38 |
-| 10 | Seychelles (SC) | 11328 | 1.90 |
+| 10 | Seychelles (SC) | 11328 | 1.89 |
 | 11 | Netherlands (NL) | 11282 | 1.89 |
-| 12 | Russian Federation (RU) | 11089 | 1.86 |
+| 12 | Russian Federation (RU) | 11095 | 1.85 |
 | 13 | Lithuania (LT) | 10392 | 1.74 |
-| 14 | India (IN) | 10313 | 1.73 |
+| 14 | India (IN) | 10313 | 1.72 |
 | 15 | Korea, Republic of (KR) | 9384 | 1.57 |
-| 16 | United Kingdom of Great Britain and Northern Ireland (GB) | 8888 | 1.49 |
+| 16 | United Kingdom of Great Britain and Northern Ireland (GB) | 8889 | 1.49 |
 | 17 | Japan (JP) | 6685 | 1.12 |
 | 18 | Taiwan (TW) | 6620 | 1.11 |
-| 19 | Bulgaria (BG) | 5952 | 1.00 |
+| 19 | Bulgaria (BG) | 5952 | 0.99 |
 | 20 | Iran, Islamic Republic of (IR) | 5700 | 0.95 |
